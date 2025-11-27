@@ -45,3 +45,9 @@ Search London:
 Postman:
 ![alt text](<Screenshot 2025-11-27 at 9.15.20 AM.png>)
 ![alt text](<Screenshot 2025-11-27 at 9.15.26 AM.png>)
+
+
+Vercel:
+https://101488042-comp-3123-lab-test-2.vercel.app
+
+![alt text](<Screenshot 2025-11-27 at 9.22.39 AM.png>)
